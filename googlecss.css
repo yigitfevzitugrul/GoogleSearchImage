@@ -1,0 +1,30 @@
+#box{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#mybutton{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+    height: 40px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#mylucky{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+    height: 40px;
+
+}
